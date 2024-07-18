@@ -1,3 +1,4 @@
 # Mycodes
 This contains my coding repository
-contains leetcode and otherplaform codes.
+<br>
+It contains leetcode and otherplaform codes.
